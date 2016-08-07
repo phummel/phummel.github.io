@@ -1,2 +1,2 @@
 # phummel.github.io
-Person site
+My personal academic website
